@@ -230,7 +230,7 @@ The test verifies:
 
 ---
 
-## 📜 11. Hackathon Presentation Checklist
+## 📜 11. Hackathon Checklist
 
 When demonstrating CivicLens to evaluators or hackathon judges:
 1. **Show the 1-Click Samples**: Click on *"Large Tree Fallen Blocking Road"* and watch the system assign `CRITICAL` priority and route to the **Parks and Horticulture Department**.
