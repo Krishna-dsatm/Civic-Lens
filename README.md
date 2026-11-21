@@ -37,7 +37,7 @@ In conventional systems:
 ## 📂 3. Project Folder Structure
 
 ```
-Prompt 2 Producr/
+Prompt 2 Product/
 ├── .tools/
 │   └── node/                    # Bundled portable Node.js runtime (v20.18.1)
 ├── backend/
